@@ -1,0 +1,30 @@
+🌟 Zendalona: Making Tech Friendly for the Visually Impaired 👁️‍🗨️💻
+Zendalona is a cool tech project focused on helping people who are visually impaired. It was started by K. Sathyaeselan, who lost his vision due to an accident. He realized how hard it is for blind people to read or get access to knowledge because many tools just don’t support them.
+
+He created Zendalona to fix this. It's an open-source project, which means anyone can use, change, and improve the software for free! 🎉
+
+🔧 What Zendalona Offers:
+1. Accessible-Coconut (AC) 🥥
+A special Linux-based operating system made just for visually impaired users. It comes with helpful apps and screen readers to make the computer easier to use.
+✅ Benefit: Easy to use and supports modern tech.
+
+2. Sharada-Braille-Writer (S.B.W.) ✍️
+A Linux-based tool to write Braille using a regular keyboard.
+✅ Benefit: Helps in creating Braille in different languages like Hindi, Tamil, and more!
+
+3. Linux-Intelligent-OCR-Solution (Lios) 📄🔍
+Turns printed books and documents into text using OCR (optical character recognition).
+✅ Benefit: Makes printed stuff accessible by converting it to speech or Braille.
+
+4. IBus-Braille ⌨️
+This tool lets users type in Braille using a normal keyboard and supports different types of Braille systems.
+✅ Benefit: Simple and user-friendly typing in Braille.
+
+5. Accessible Games (like TuxMath and TuxType) 🎮🧠
+Fun and educational games that teach math and typing with built-in support for screen readers!
+✅ Benefit: Learning through play for visually impaired children.
+
+🧠 Why This Matters:
+Zendalona is not just a set of tools—it’s a movement that pushes for inclusivity and accessibility. By using open-source tech, it breaks down barriers and helps people with disabilities live more independent lives. ❤️
+
+Whether it’s education, job opportunities, or daily tasks, Zendalona is showing the world how tech can be made for everyone—not just a few. 🌍✨
